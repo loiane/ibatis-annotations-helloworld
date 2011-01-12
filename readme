@@ -1,8 +1,8 @@
 MyBatis/iBatis Hello World application with annotation example.
 
-To run the tests, just run the class com.loiane.test.Test
+To run the tests, just run the class com.loiane.test.TestiBatis inside test folder
 
-All libs/jars included.
+All libs/jars are included.
 
 Loiane Groner
 http://loianegroner.com (English)
