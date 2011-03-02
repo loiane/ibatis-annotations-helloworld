@@ -1,8 +1,18 @@
 MyBatis/iBatis Hello World application with annotation example.
 
-To run the tests, just run the class com.loiane.test.TestiBatis inside test folder
+To run the tests, just run the class inside the com.loiane.test.* package (JUnit)
 
-All libs/jars are included.
+All libs/jars included.
+
+Please run the scrip inside sql/script.sql
+
+Tools used to implement this project:
+Eclipse IDE - Java project
+MySQL
+
+Post URL explaning this project step-by-step:
+Enhlish: http://loianegroner.com/2011/02/getting-started-with-ibatis-mybatis-annotations/
+Portuguese-Brazil: http://www.loiane.com/2011/02/comecando-com-ibatis-mybatis-annotations/
 
 Loiane Groner
 http://loianegroner.com (English)
